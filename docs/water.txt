@@ -1,0 +1,2 @@
+60 g: hydrogen
+30 g: oxygen
